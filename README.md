@@ -1,3 +1,9 @@
+# Soar Education CKEditor Fork
+
+See CK [docs](https://ckeditor.com/docs/ckeditor5/latest/builds/guides/development/custom-builds.html#publishing-your-builds) for development info
+
+After cloning make sure you `https://ckeditor.com/docs/ckeditor5/latest/builds/guides/development/custom-builds.html#publishing-your-builds`
+
 CKEditor 5 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20CKEditor%205%20on%20GitHub&url=https%3A%2F%2Fgithub.com%2Fckeditor%2Fckeditor5)
 ===================================
 
